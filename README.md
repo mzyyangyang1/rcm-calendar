@@ -86,3 +86,5 @@ ISchedules：日程字段说明
 | customStyle | 自定义css | {} |
 | state | 记录日程的状态 | string |
 | raw | 用户自定所需要的字段 | {} |
+
+ [demo](https://zbncs.github.io/rcm-calendar/docs/examples.mdx)
