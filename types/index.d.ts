@@ -1,1 +1,0 @@
-declare module 'rcm-calendar';
